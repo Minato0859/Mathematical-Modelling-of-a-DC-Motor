@@ -61,7 +61,7 @@ L = 0.1692  # H, armature inductance
 
 ![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/76b19704-6f66-4016-8bf1-5e3f9b379b56)
 
-### Figures 2.00-2.99 (100 graphs of varied voltages) 
+### Figures 2.00-2.99 (100 graphs of varied voltages against angular velocity) 
 
 ![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/f450873a-2fc3-4a29-ad29-819249ef0e2e)
 
