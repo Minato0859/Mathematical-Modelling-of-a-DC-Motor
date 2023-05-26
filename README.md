@@ -6,12 +6,14 @@
 
 ## Overview
 
-![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/34501405-d117-4858-8fc9-4fc5d62afe4a)
 
 
 This project aims to understand and illustrate the dynamics of a Direct Current (DC) motor by leveraging the principles of physics and mathematics. Through a series of differential equations that model the motor's behavior, we're able to capture the motor's response to varying voltage inputs over time.
 
 The simulation uses basic physical parameters of a DC motor, such as armature resistance, armature inductance, back-emf constant, torque constant, rotor inertia, and rotor damping. The chosen parameters are used to describe a typical DC motor, but these can be modified to emulate different motor specifications.
+
+![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/eb80e60f-1272-434c-878f-275712a43aff)
+
 
 ![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/f5dd2fb0-8232-440f-abf0-12b41636b792)
 
