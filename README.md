@@ -12,10 +12,10 @@ This project aims to understand and illustrate the dynamics of a Direct Current 
 
 The simulation uses basic physical parameters of a DC motor, such as armature resistance, armature inductance, back-emf constant, torque constant, rotor inertia, and rotor damping. The chosen parameters are used to describe a typical DC motor, but these can be modified to emulate different motor specifications.
 
-![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/eb80e60f-1272-434c-878f-275712a43aff)
-
 
 ![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/f5dd2fb0-8232-440f-abf0-12b41636b792)
+
+![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/eb80e60f-1272-434c-878f-275712a43aff)
 
 
 One of the significant features of this project is its capability to generate a graphical representation of the relationship between the applied voltage and the motor's terminal angular velocity at t=1s. This characteristic helps us understand the influence of voltage on the motor's performance, demonstrating the motor's behavior under different operating conditions.
