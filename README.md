@@ -55,6 +55,17 @@ L = 0.1692  # H, armature inductance
 ...
 ```
 
+## Glimpse at other key graphs
+
+### Figure 1.4 setting the damping to 0.00004 N*m/(rad/s)
+
+![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/e898d91c-524a-4983-aa26-81d588498332)
+
+### Figures 2.00-2.99 (100 graphs of varied voltages) 
+
+![image](https://github.com/Minato0859/Mathematical-Modelling-of-a-DC-Motor/assets/123880338/5db37eb2-6e95-40a7-955c-62972146fcb7)
+
+
 
 ## Future Work
 
